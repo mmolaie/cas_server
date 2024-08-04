@@ -1,6 +1,6 @@
 # PHP CAS Server
 
-PHP CAS Server is a PHP implementation of CAS Server Protocol based on Laravel.
+Basic PHP implementation of CAS Server Protocol based on Laravel.
 
 ## About CAS
 
